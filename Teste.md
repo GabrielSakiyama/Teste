@@ -1,3 +1,4 @@
-# Teste
+# Testando
 
-**Praticando** o uso do git e github
+**Praticando** o git e github
+
